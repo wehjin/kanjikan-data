@@ -1,0 +1,1365 @@
+{
+  "chapter-template": {
+    "chapter": 1,
+    "characters": [
+      {
+        "number": 1,
+        "character": "",
+        "meaning": "",
+        "usages": [
+          {
+            "furigana": "",
+            "meaning": ""
+          }
+        ]
+      }
+    ]
+  },
+  "chapters": [
+    {
+      "chapter": 10,
+      "characters": [
+        {
+          "number": 102,
+          "character": "場",
+          "meaning": "place, space, spot, situation",
+          "usages": [
+            {
+              "furigana": "場｜ば　所｜しょ",
+              "meaning": "place"
+            },
+            {
+              "furigana": "広｜ひろ　場｜ば",
+              "meaning": "public space"
+            },
+            {
+              "furigana": "会｜かい　場｜じょう",
+              "meaning": "venue"
+            },
+            {
+              "furigana": "ゴルフ　場｜じょう",
+              "meaning": "golf course"
+            },
+            {
+              "furigana": "入｜にゅう　場｜じょう　料｜りょう",
+              "meaning": "entrance fee"
+            }
+          ]
+        },
+        {
+          "number": 103,
+          "character": "物",
+          "meaning": "thing, object, matter, substance, goods",
+          "usages": [
+            {
+              "furigana": "買｜か　い　物｜もの",
+              "meaning": "shopping"
+            },
+            {
+              "furigana": "食｜た　べ　物｜もの",
+              "meaning": "food"
+            },
+            {
+              "furigana": "飲｜の　み　物｜もの",
+              "meaning": "drink"
+            },
+            {
+              "furigana": "物｜もの　語｜がたり",
+              "meaning": "story, tale"
+            },
+            {
+              "furigana": "動｜どう　物｜ぶつ",
+              "meaning": "animal"
+            },
+            {
+              "furigana": "荷｜に　物｜もつ",
+              "meaning": "luggage"
+            }
+          ]
+        },
+        {
+          "number": 104,
+          "character": "校",
+          "meaning": "school",
+          "usages": [
+            {
+              "furigana": "学｜がっ　校｜こう",
+              "meaning": "school"
+            },
+            {
+              "furigana": "中｜ちゅう　学｜がっ　校｜こう",
+              "meaning": "middle school"
+            },
+            {
+              "furigana": "小｜しょう　学｜がっ　校｜こう",
+              "meaning": "elementary school"
+            },
+            {
+              "furigana": "高｜こう　校｜こう",
+              "meaning": "high school"
+            },
+            {
+              "furigana": "校｜こう　長｜ちょう",
+              "meaning": "school principal"
+            }
+          ]
+        },
+        {
+          "number": 105,
+          "character": "市",
+          "meaning": "market, city",
+          "usages": [
+            {
+              "furigana": "市｜いち　場｜ば",
+              "meaning": "market (not しじょう)"
+            },
+            {
+              "furigana": "朝｜あさ　市｜いち",
+              "meaning": "morning market"
+            },
+            {
+              "furigana": "京｜きょう　都｜と　市｜し",
+              "meaning": "Kyoto"
+            },
+            {
+              "furigana": "都｜と　市｜し",
+              "meaning": "city (not まち)"
+            },
+            {
+              "furigana": "市｜し　場｜じょう",
+              "meaning": "market (not いちば)"
+            }
+          ]
+        },
+        {
+          "number": 106,
+          "character": "立",
+          "meaning": "to stand, to rise, to set up, to raise",
+          "usages": [
+            {
+              "furigana": "〜が　立｜た　つ",
+              "meaning": "to stand"
+            },
+            {
+              "furigana": "〜を　立｜た　てる",
+              "meaning": "to set up, to raise"
+            },
+            {
+              "furigana": "市｜し　立｜りつ",
+              "meaning": "municipal"
+            },
+            {
+              "furigana": "国｜こく　立｜りつ",
+              "meaning": "national"
+            },
+            {
+              "furigana": "私｜し　立｜りつ",
+              "meaning": "private"
+            }
+          ]
+        },
+        {
+          "number": 107,
+          "character": "公",
+          "meaning": "public, official, formal",
+          "usages": [
+            {
+              "furigana": "公｜おおやけ",
+              "meaning": "in public"
+            },
+            {
+              "furigana": "公｜こう　園｜えん",
+              "meaning": "park"
+            },
+            {
+              "furigana": "公｜こう　立｜りつ",
+              "meaning": "public"
+            }
+          ]
+        },
+        {
+          "number": 108,
+          "character": "園",
+          "meaning": "garden",
+          "usages": [
+            {
+              "furigana": "花｜はな　園｜ぞの",
+              "meaning": "flower garden"
+            },
+            {
+              "furigana": "公｜こう　園｜えん",
+              "meaning": "park"
+            },
+            {
+              "furigana": "動｜どう　物｜ぶつ　園｜えん",
+              "meaning": "zoo"
+            }
+          ]
+        },
+        {
+          "number": 109,
+          "character": "屋",
+          "meaning": "house, building, roof, shop",
+          "usages": [
+            {
+              "furigana": "本｜ほん　屋｜や",
+              "meaning": "book shop"
+            },
+            {
+              "furigana": "パン　屋｜や",
+              "meaning": "bakery shop"
+            },
+            {
+              "furigana": "花｜はな　屋｜や",
+              "meaning": "florist shop"
+            },
+            {
+              "furigana": "屋｜おく　上｜じょう",
+              "meaning": "top of the building"
+            }
+          ]
+        },
+        {
+          "number": 110,
+          "character": "交",
+          "meaning": "to cross, to exchange, to intersect",
+          "usages": [
+            {
+              "furigana": "交｜まじ　わる",
+              "meaning": "to associate with, to keep company with"
+            },
+            {
+              "furigana": "交｜か　わす",
+              "meaning": "to exchange"
+            },
+            {
+              "furigana": "交｜こう　番｜ばん",
+              "meaning": "police box"
+            },
+            {
+              "furigana": "交｜こう　通｜つう",
+              "meaning": "traffic"
+            }
+          ]
+        },
+        {
+          "number": 111,
+          "character": "差",
+          "meaning": "difference, gap",
+          "usages": [
+            {
+              "furigana": "差｜さ　す",
+              "meaning": "to hold (an umbrella), to shine (into), to insert"
+            },
+            {
+              "furigana": "日｜ひ　差｜ざ　し",
+              "meaning": "sunlight, sunshine"
+            },
+            {
+              "furigana": "AとBの　差｜さ",
+              "meaning": "difference between A and B"
+            }
+          ]
+        },
+        {
+          "number": 112,
+          "character": "点",
+          "meaning": "point, mark, spot",
+          "usages": [
+            {
+              "furigana": "交｜こう　差｜さ　点｜てん",
+              "meaning": "intersection"
+            },
+            {
+              "furigana": "点",
+              "meaning": "point, dot"
+            },
+            {
+              "furigana": "１００　店｜てん",
+              "meaning": "one hundred points"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 11,
+      "characters": [
+        {
+          "number": 113,
+          "character": "歌",
+          "meaning": "song, to sing",
+          "usages": [
+            {
+              "furigana": "歌｜うた",
+              "meaning": "song"
+            },
+            {
+              "furigana": "歌｜うた　う",
+              "meaning": "to sing"
+            },
+            {
+              "furigana": "歌｜か　手｜しゅ",
+              "meaning": "singer"
+            },
+            {
+              "furigana": "歌｜か　舞｜ぶ　伎｜き",
+              "meaning": "kabuki"
+            }
+          ]
+        },
+        {
+          "number": 114,
+          "character": "気",
+          "meaning": "spirit, air, mind, feelings, mood",
+          "usages": [
+            {
+              "furigana": "電｜でん　気｜き",
+              "meaning": "electricity"
+            },
+            {
+              "furigana": "人｜にん　気｜き",
+              "meaning": "popular"
+            },
+            {
+              "furigana": "気｜き　分｜ぶん",
+              "meaning": "mood"
+            },
+            {
+              "furigana": "気｜き　に　入｜い　る",
+              "meaning": "to like (have interest)"
+            },
+            {
+              "furigana": "気｜き　をつける",
+              "meaning": "to be careful"
+            }
+          ]
+        },
+        {
+          "number": 115,
+          "character": "友",
+          "meaning": "friend, companion, mate",
+          "usages": [
+            {
+              "furigana": "友｜とも　達｜だち",
+              "meaning": "friend (not ゆうじん)"
+            },
+            {
+              "furigana": "友｜ゆう　人｜じん",
+              "meaning": "friend (not ともだち)"
+            }
+          ]
+        },
+        {
+          "number": 116,
+          "character": "新",
+          "meaning": "new, fresh, novel, latest",
+          "usages": [
+            {
+              "furigana": "新｜あたら　しい",
+              "meaning": "new (not あらた)"
+            },
+            {
+              "furigana": "新｜あら　た　（な）",
+              "meaning": "new (not あたらしい)"
+            },
+            {
+              "furigana": "新｜にい　潟｜がた　県｜けん",
+              "meaning": "Nigata Prefecture"
+            },
+            {
+              "furigana": "新｜しん　聞｜ぶん",
+              "meaning": "newspaper"
+            }
+          ]
+        },
+        {
+          "number": 117,
+          "character": "車",
+          "meaning": "car, vehicle, wheel",
+          "usages": [
+            {
+              "furigana": "車｜くるま",
+              "meaning": "automobile"
+            },
+            {
+              "furigana": "電｜でん　車｜しゃ",
+              "meaning": "train"
+            }
+          ]
+        },
+        {
+          "number": 118,
+          "character": "週",
+          "meaning": "week",
+          "usages": [
+            {
+              "furigana": "週｜しゅう",
+              "meaning": "week"
+            },
+            {
+              "furigana": "先｜せん　週｜しゅう",
+              "meaning": "last week"
+            },
+            {
+              "furigana": "今｜こん　週｜しゅう",
+              "meaning": "this week"
+            },
+            {
+              "furigana": "来｜らい　週｜しゅう",
+              "meaning": "next week"
+            },
+            {
+              "furigana": "毎｜まい　週｜しゅう",
+              "meaning": "every week"
+            }
+          ]
+        },
+        {
+          "number": 119,
+          "character": "末",
+          "meaning": "end, close",
+          "usages": [
+            {
+              "furigana": "今｜こん　月｜げつ　の　末｜すえ",
+              "meaning": "end of this month"
+            },
+            {
+              "furigana": "週｜しゅう　末｜まつ",
+              "meaning": "end of the week"
+            },
+            {
+              "furigana": "月｜げつ　末｜まつ",
+              "meaning": "end of the month"
+            },
+            {
+              "furigana": "年｜ねん　末｜まつ",
+              "meaning": "end of the year"
+            }
+          ]
+        },
+        {
+          "number": 120,
+          "character": "先",
+          "meaning": "point, tip, end, front, previous, last, ahead",
+          "usages": [
+            {
+              "furigana": "〜の　先｜さき",
+              "meaning": "past the …"
+            },
+            {
+              "furigana": "お　先｜さき　に",
+              "meaning": "Go ahead."
+            },
+            {
+              "furigana": "先｜せん　生｜せい",
+              "meaning": "teacher"
+            },
+            {
+              "furigana": "先｜せん　月｜げつ",
+              "meaning": "last month"
+            },
+            {
+              "furigana": "先｜せん　進｜しん　国｜こく",
+              "meaning": "developed nation"
+            }
+          ]
+        },
+        {
+          "number": 121,
+          "character": "明",
+          "meaning": "bright, light, clear, to begin",
+          "usages": [
+            {
+              "furigana": "明｜あか　るい",
+              "meaning": "bright, cheerful"
+            },
+            {
+              "furigana": "明|あ 日｜した/す",
+              "meaning": "tomorrow (not みょうにち)"
+            },
+            {
+              "furigana": "明｜あき　らか　（な）",
+              "meaning": "obvious, clear"
+            },
+            {
+              "furigana": "年｜とし　明｜あ　け",
+              "meaning": "beginning of the New Year"
+            },
+            {
+              "furigana": "説｜せつ　明｜めい　（する）",
+              "meaning": "to explain"
+            },
+            {
+              "furigana": "明｜みょう　日｜にち",
+              "meaning": "tomorrow (not あした/あす)"
+            }
+          ]
+        },
+        {
+          "number": 122,
+          "character": "元",
+          "meaning": "origin, source, root, former",
+          "usages": [
+            {
+              "furigana": "元｜もと　社｜しゃ　長｜ちょう",
+              "meaning": "former company president"
+            },
+            {
+              "furigana": "元｜げん　気｜き　（な）",
+              "meaning": "healthy"
+            },
+            {
+              "furigana": "元｜がん　日｜じつ",
+              "meaning": "New Year's day"
+            }
+          ]
+        },
+        {
+          "number": 123,
+          "character": "働",
+          "meaning": "to work, to labor",
+          "usages": [
+            {
+              "furigana": "働｜はたら　く",
+              "meaning": "to work"
+            },
+            {
+              "furigana": "労｜ろう　働｜どう",
+              "meaning": "labor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 12,
+      "characters": [
+        {
+          "number": 124,
+          "character": "予",
+          "meaning": "in advance, previously, beforehand",
+          "usages": [
+            {
+              "furigana": "予｜よ　定｜てい　（する）",
+              "meaning": "to schedule"
+            },
+            {
+              "furigana": "予｜よ　算｜さん",
+              "meaning": "budget"
+            }
+          ]
+        },
+        {
+          "number": 125,
+          "character": "定",
+          "meaning": "to decide, to determine, to be settled, certain",
+          "usages": [
+            {
+              "furigana": "定｜さだ　める",
+              "meaning": "to decide, to determine"
+            },
+            {
+              "furigana": "予｜よ　定｜てい　（する）",
+              "meaning": "to schedule"
+            },
+            {
+              "furigana": "定｜てい　食｜しょく",
+              "meaning": "set meal"
+            },
+            {
+              "furigana": "定｜てい　年｜ねん",
+              "meaning": "retirement age"
+            }
+          ]
+        },
+        {
+          "number": 126,
+          "character": "議",
+          "meaning": "to consult, to discuss, to debate",
+          "usages": [
+            {
+              "furigana": "会｜かい　議｜ぎ",
+              "meaning": "meeting"
+            },
+            {
+              "furigana": "国｜こっ　会｜かい　議｜ぎ　員｜いん",
+              "meaning": "member of the Diet"
+            },
+            {
+              "furigana": "議｜ぎ　会｜かい",
+              "meaning": "legislative body, assembly"
+            }
+          ]
+        },
+        {
+          "number": 127,
+          "character": "映",
+          "meaning": "to reflect, to project, to cast",
+          "usages": [
+            {
+              "furigana": "映｜うつ　る",
+              "meaning": "to be reflected"
+            },
+            {
+              "furigana": "映｜えい　画｜が",
+              "meaning": "movie"
+            },
+            {
+              "furigana": "反｜はん　映｜えい　（する）",
+              "meaning": "to reflect"
+            }
+          ]
+        },
+        {
+          "number": 128,
+          "character": "画",
+          "meaning": "picture, to draw up a plan",
+          "usages": [
+            {
+              "furigana": "画｜が　面｜めん",
+              "meaning": "screen"
+            },
+            {
+              "furigana": "映｜えい　画｜が",
+              "meaning": "movie"
+            },
+            {
+              "furigana": "計｜けい　画｜かく　（する）",
+              "meaning": "to plan"
+            }
+          ]
+        },
+        {
+          "number": 129,
+          "character": "張",
+          "meaning": "to stretch, to spread, to strain",
+          "usages": [
+            {
+              "furigana": "張｜は　る",
+              "meaning": "to stretch, to spread"
+            },
+            {
+              "furigana": "出｜しゅっ　張｜ちょう　（する）",
+              "meaning": "to go on a business trip"
+            }
+          ]
+        },
+        {
+          "number": 130,
+          "character": "送",
+          "meaning": "to send, to forward",
+          "usages": [
+            {
+              "furigana": "送｜おく　る",
+              "meaning": "to send"
+            },
+            {
+              "furigana": "送｜そう　金｜きん　（する）",
+              "meaning": "to send money"
+            }
+          ]
+        },
+        {
+          "number": 131,
+          "character": "別",
+          "meaning": "distinction, difference, to separate, to part ways, another, extra",
+          "usages": [
+            {
+              "furigana": "別｜わか　れる",
+              "meaning": "to part ways, to say goodbye"
+            },
+            {
+              "furigana": "送｜そう　別｜べつ　会｜かい",
+              "meaning": "farewell party"
+            },
+            {
+              "furigana": "別｜べつ",
+              "meaning": "separate, another, extra"
+            },
+            {
+              "furigana": "特｜とく　別｜べつ　（な）",
+              "meaning": "special"
+            }
+          ]
+        },
+        {
+          "number": 132,
+          "character": "仕",
+          "meaning": "to serve, to work under, to attend on",
+          "usages": [
+            {
+              "furigana": "仕｜つか　える",
+              "meaning": "to serve, to be in someone's service"
+            },
+            {
+              "furigana": "仕｜し　事｜ごと",
+              "meaning": "work"
+            },
+            {
+              "furigana": "〜の　仕｜し　方｜かた",
+              "meaning": "wat to …"
+            }
+          ]
+        },
+        {
+          "number": 133,
+          "character": "事",
+          "meaning": "thing, matter, affair, incident, fact",
+          "usages": [
+            {
+              "furigana": "仕｜し　事｜ごと",
+              "meaning": "work"
+            },
+            {
+              "furigana": "事｜こと",
+              "meaning": "thing, matter"
+            },
+            {
+              "furigana": "食｜しょく　事｜じ　（する）",
+              "meaning": "to have a meal"
+            },
+            {
+              "furigana": "火｜か　事｜じ",
+              "meaning": "fire"
+            },
+            {
+              "furigana": "大｜だい　事｜じ　（な）",
+              "meaning": "important"
+            }
+          ]
+        },
+        {
+          "number": 134,
+          "character": "終",
+          "meaning": "to end, to finish, to come to an end",
+          "usages": [
+            {
+              "furigana": "〜が　終｜お　わる",
+              "meaning": "to come to an end"
+            },
+            {
+              "furigana": "〜を　終｜お　える",
+              "meaning": "to finish (something)"
+            },
+            {
+              "furigana": "最｜さい　終｜しゅう",
+              "meaning": "final"
+            }
+          ]
+        },
+        {
+          "number": 135,
+          "character": "始",
+          "meaning": "to begin, to start",
+          "usages": [
+            {
+              "furigana": "〜が　始｜はじ　まる",
+              "meaning": "to begin"
+            },
+            {
+              "furigana": "〜を　始｜はじ　める",
+              "meaning": "to start"
+            },
+            {
+              "furigana": "年｜ねん　始｜し",
+              "meaning": "beginning of the year"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 13,
+      "characters": [
+        {
+          "number": 136,
+          "character": "空",
+          "meaning": "sky, air, empty, to empty, to vacate",
+          "usages": [
+            {
+              "furigana": "空｜そら",
+              "meaning": "sky"
+            },
+            {
+              "furigana": "空｜あ　く",
+              "meaning": "to open up, to empty"
+            },
+            {
+              "furigana": "空｜から　手｜て",
+              "meaning": "karate"
+            },
+            {
+              "furigana": "空｜くう　気｜き",
+              "meaning": "air"
+            }
+          ]
+        },
+        {
+          "number": 137,
+          "character": "港",
+          "meaning": "port, harbor",
+          "usages": [
+            {
+              "furigana": "港｜みなと",
+              "meaning": "port (ships)"
+            },
+            {
+              "furigana": "空｜くう　港｜こう",
+              "meaning": "airport"
+            }
+          ]
+        },
+        {
+          "number": 138,
+          "character": "地",
+          "meaning": "ground, land, earth, soil, place",
+          "usages": [
+            {
+              "furigana": "地｜ち　下｜か",
+              "meaning": "underground"
+            },
+            {
+              "furigana": "地｜ち　図｜ず",
+              "meaning": "map"
+            },
+            {
+              "furigana": "土｜と　地｜ち",
+              "meaning": "land, soil, earth"
+            },
+            {
+              "furigana": "地｜ち　方｜ほう",
+              "meaning": "region, rural area"
+            },
+            {
+              "furigana": "地｜じ　震｜しん",
+              "meaning": "earthquake"
+            },
+            {
+              "furigana": "地｜ち　名｜めい",
+              "meaning": "place name"
+            }
+          ]
+        },
+        {
+          "number": 139,
+          "character": "鉄",
+          "meaning": "iron",
+          "usages": [
+            {
+              "furigana": "地｜ち　下｜か　鉄｜てつ",
+              "meaning": "subway"
+            }
+          ]
+        },
+        {
+          "number": 140,
+          "character": "便",
+          "meaning": "mail, news, letter, convenience",
+          "usages": [
+            {
+              "furigana": "便｜たよ　り",
+              "meaning": "correspondence, a letter"
+            },
+            {
+              "furigana": "不｜ふ　便｜べん　（な）",
+              "meaning": "inconvenient"
+            },
+            {
+              "furigana": "JL９５　便｜びん",
+              "meaning": "JL flight 95"
+            },
+            {
+              "furigana": "郵｜ゆう　便｜びん　局｜きょく",
+              "meaning": "post office"
+            },
+            {
+              "furigana": "郵｜ゆう　便｜びん　番｜ばん　号｜ごう",
+              "meaning": "postal code"
+            }
+          ]
+        },
+        {
+          "number": 141,
+          "character": "利",
+          "meaning": "profit, advantage, benefit",
+          "usages": [
+            {
+              "furigana": "利｜き　く",
+              "meaning": "to have an effect, to be good for"
+            },
+            {
+              "furigana": "便｜べん　利｜り　（な）",
+              "meaning": "convenient"
+            }
+          ]
+        },
+        {
+          "number": 142,
+          "character": "線",
+          "meaning": "line, track",
+          "usages": [
+            {
+              "furigana": "線｜せん",
+              "meaning": "line"
+            },
+            {
+              "furigana": "新｜しん　幹｜かん　線｜せん",
+              "meaning": "bullet train"
+            }
+          ]
+        },
+        {
+          "number": 143,
+          "character": "乗",
+          "meaning": "to get on, to ride, to mount",
+          "usages": [
+            {
+              "furigana": "乗｜の　る",
+              "meaning": "to ride"
+            },
+            {
+              "furigana": "乗｜の　りかえる",
+              "meaning": "to change (trains), to transfer"
+            },
+            {
+              "furigana": "乗｜じょう　客｜きゃく",
+              "meaning": "passenger"
+            }
+          ]
+        },
+        {
+          "number": 144,
+          "character": "降",
+          "meaning": "to get off, to fall, to come down",
+          "usages": [
+            {
+              "furigana": "降｜お　りる",
+              "meaning": "to get off"
+            },
+            {
+              "furigana": "降｜ふ　る",
+              "meaning": "to fall, to rain down"
+            },
+            {
+              "furigana": "以｜い　降｜こう",
+              "meaning": "… and after, from … on"
+            }
+          ]
+        },
+        {
+          "number": 145,
+          "character": "間",
+          "meaning": "interval, space, time, distance, between, among",
+          "usages": [
+            {
+              "furigana": "AとBの　間｜あいだ",
+              "meaning": "between A and B"
+            },
+            {
+              "furigana": "間｜ま　に　合｜あ　う",
+              "meaning": "to make it on time"
+            },
+            {
+              "furigana": "この　間｜あいだ",
+              "meaning": "the other day"
+            },
+            {
+              "furigana": "時｜じ　間｜かん",
+              "meaning": "time"
+            },
+            {
+              "furigana": "２　時｜じ　間｜かん",
+              "meaning": "two hours"
+            },
+            {
+              "furigana": "２　週｜しゅう　間｜かん",
+              "meaning": "two weeks"
+            },
+            {
+              "furigana": "人｜にん　間｜げん",
+              "meaning": "human being"
+            }
+          ]
+        },
+        {
+          "number": 146,
+          "character": "田",
+          "meaning": "rice field",
+          "usages": [
+            {
+              "furigana": "田｜た　中｜なか",
+              "meaning": "Tanaka (surname)"
+            },
+            {
+              "furigana": "上｜うえ　田｜だ",
+              "meaning": "Ueda (surname)"
+            },
+            {
+              "furigana": "油｜ゆ　田｜でん",
+              "meaning": "oil field"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 14,
+      "characters": [
+        {
+          "number": 147,
+          "character": "工",
+          "meaning": "engineering, to craft, to manufacture",
+          "usages": [
+            {
+              "furigana": "工｜こう　場｜じょう",
+              "meaning": "factory"
+            },
+            {
+              "furigana": "工｜こう　事｜じ",
+              "meaning": "construction work"
+            },
+            {
+              "furigana": "工｜く　夫｜ふ",
+              "meaning": "plan, means"
+            }
+          ]
+        },
+        {
+          "number": 148,
+          "character": "受",
+          "meaning": "to get, to take, to receive, to accept",
+          "usages": [
+            {
+              "furigana": "受｜う　ける",
+              "meaning": "to accept, to receive"
+            },
+            {
+              "furigana": "受｜じゅ　験｜けん　（する）",
+              "meaning": "to take a test"
+            }
+          ]
+        },
+        {
+          "number": 149,
+          "character": "付",
+          "meaning": "to attach, to fix",
+          "usages": [
+            {
+              "furigana": "〜が　付｜つ　く",
+              "meaning": "to come (with something)"
+            },
+            {
+              "furigana": "受｜うけ　付｜つけ",
+              "meaning": "reception"
+            },
+            {
+              "furigana": "朝｜ちょう　食｜しょく　付｜つき",
+              "meaning": "breakfast included"
+            },
+            {
+              "furigana": "〜を　付｜つ　ける",
+              "meaning": "to include (something)"
+            },
+            {
+              "furigana": "送｜そう　付｜ふ　（する）",
+              "meaning": "to send"
+            }
+          ]
+        },
+        {
+          "number": 150,
+          "character": "務",
+          "meaning": "duty, to perform, to act",
+          "usages": [
+            {
+              "furigana": "務｜つと　める",
+              "meaning": "to serve (as), to perform (the part of)"
+            },
+            {
+              "furigana": "事｜じ　務｜む　所｜しょ",
+              "meaning": "office"
+            },
+            {
+              "furigana": "公｜こう　務｜む　員｜いん",
+              "meaning": "government worker"
+            }
+          ]
+        },
+        {
+          "number": 151,
+          "character": "所",
+          "meaning": "place, spot, scene, area, point, location",
+          "usages": [
+            {
+              "furigana": "所｜ところ",
+              "meaning": "location"
+            },
+            {
+              "furigana": "台｜だい　所｜どころ",
+              "meaning": "kitchen"
+            },
+            {
+              "furigana": "場｜ば　所｜しょ",
+              "meaning": "place"
+            },
+            {
+              "furigana": "住｜じゅう　所｜しょ",
+              "meaning": "address (residence)"
+            }
+          ]
+        },
+        {
+          "number": 152,
+          "character": "部",
+          "meaning": "part, section, department, division, club",
+          "usages": [
+            {
+              "furigana": "システム　部｜ぶ",
+              "meaning": "systems department"
+            },
+            {
+              "furigana": "部｜ぶ　分｜ぶん",
+              "meaning": "part"
+            },
+            {
+              "furigana": "工｜こう　学｜がく　部｜ぶ",
+              "meaning": "department of engineering"
+            },
+            {
+              "furigana": "部｜ぶ　下｜か",
+              "meaning": "subordinate"
+            },
+            {
+              "furigana": "部｜ぶ　員｜いん",
+              "meaning": "staff, member (of a club or society)"
+            },
+            {
+              "furigana": "部｜へ　屋｜や",
+              "meaning": "room"
+            }
+          ]
+        },
+        {
+          "number": 153,
+          "character": "課",
+          "meaning": "section, lesson, to impose",
+          "usages": [
+            {
+              "furigana": "",
+              "meaning": ""
+            },
+            {
+              "furigana": "",
+              "meaning": ""
+            }
+          ]
+        },
+        {
+          "number": 154,
+          "character": "長",
+          "meaning": "long, chief, head",
+          "usages": [
+            {
+              "furigana": "",
+              "meaning": ""
+            },
+            {
+              "furigana": "",
+              "meaning": ""
+            },
+            {
+              "furigana": "",
+              "meaning": ""
+            },
+            {
+              "furigana": "",
+              "meaning": ""
+            },
+            {
+              "furigana": "",
+              "meaning": ""
+            },
+            {
+              "furigana": "",
+              "meaning": ""
+            },
+            {
+              "furigana": "",
+              "meaning": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 15,
+      "characters": [
+        {
+          "character": "手",
+          "number": 155,
+          "meaning": "hand, arm, way",
+          "usages": [
+            {
+              "furigana": "手｜て",
+              "meaning": "hand"
+            },
+            {
+              "furigana": "切｜きっ　手｜て",
+              "meaning": "postage stamp"
+            },
+            {
+              "furigana": "下｜へ　手｜た　（な）",
+              "meaning": "untalented, unskilled"
+            },
+            {
+              "furigana": "手｜て　伝｜つだ　う",
+              "meaning": "to lend a hand"
+            },
+            {
+              "furigana": "歌｜か　手｜しゅ",
+              "meaning": "singer"
+            },
+            {
+              "furigana": "上｜じょう　手｜ず　（な）",
+              "meaning": "talented, skillfully"
+            }
+          ]
+        },
+        {
+          "character": "紙",
+          "number": 156,
+          "meaning": "paper",
+          "usages": [
+            {
+              "furigana": "紙｜かみ",
+              "meaning": "paper"
+            },
+            {
+              "furigana": "手｜て　紙｜がみ",
+              "meaning": "letter (correspondence)"
+            },
+            {
+              "furigana": "和｜わ　紙｜し",
+              "meaning": "Japanese paper"
+            }
+          ]
+        },
+        {
+          "character": "住",
+          "number": 157,
+          "meaning": "to live, to dwell, to reside",
+          "usages": [
+            {
+              "furigana": "住｜す　む",
+              "meaning": "to reside (at a place)"
+            },
+            {
+              "furigana": "住｜じゅう　所｜しょ",
+              "meaning": "address"
+            }
+          ]
+        },
+        {
+          "character": "道",
+          "number": 158,
+          "meaning": "way, road",
+          "usages": [
+            {
+              "furigana": "道｜みち",
+              "meaning": "way, road"
+            },
+            {
+              "furigana": "北｜ほっ　海｜かい　道｜どう",
+              "meaning": "Hokkaido (place-name)"
+            },
+            {
+              "furigana": "書｜しょ　道｜どう",
+              "meaning": "calligraphy"
+            },
+            {
+              "furigana": "道｜どう　路｜ろ",
+              "meaning": "road"
+            }
+          ]
+        },
+        {
+          "character": "府",
+          "number": 159,
+          "meaning": "(metropolitan) prefecture",
+          "usages": [
+            {
+              "furigana": "京｜きょう　都｜と　府｜ふ",
+              "meaning": "Kyoto Prefecture"
+            },
+            {
+              "furigana": "大｜おお　阪｜さか　府｜ふ",
+              "meaning": "Osaka Prefecture"
+            }
+          ]
+        },
+        {
+          "character": "県",
+          "number": 160,
+          "meaning": "prefecture",
+          "usages": [
+            {
+              "furigana": "都｜と　道｜どう　府｜ふ　県｜けん",
+              "meaning": "municipalities and prefectures"
+            },
+            {
+              "furigana": "福｜服　岡｜おか　県｜けん",
+              "meaning": "Fukuoka Prefecture"
+            }
+          ]
+        },
+        {
+          "character": "区",
+          "number": 161,
+          "meaning": "ward, district, division, section",
+          "usages": [
+            {
+              "furigana": "中｜ちゅう　央｜おう　区｜く",
+              "meaning": "central ward, Chuo Ward"
+            },
+            {
+              "furigana": "地｜ち　区｜く",
+              "meaning": "district"
+            },
+            {
+              "furigana": "区｜く　役｜やく　所｜しょ",
+              "meaning": "ward office"
+            }
+          ]
+        },
+        {
+          "character": "町",
+          "number": 162,
+          "meaning": "town, city",
+          "usages": [
+            {
+              "furigana": "町｜まち",
+              "meaning": "town"
+            },
+            {
+              "furigana": "北｜きた　町｜まち",
+              "meaning": "Kitamachi (place-name)"
+            },
+            {
+              "furigana": "市｜し　区｜く　町｜ちょう　村｜そん",
+              "meaning": "local municipalities"
+            },
+            {
+              "furigana": "町｜ちょう　長｜ちょう",
+              "meaning": "town major"
+            },
+            {
+              "furigana": "町｜ちょう　内｜ない",
+              "meaning": "neighborhood"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
