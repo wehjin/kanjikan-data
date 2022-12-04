@@ -50,7 +50,12 @@ pub async fn main(req: Request, env: Env, _ctx: worker::Context) -> Result<Respo
 		})
 		.get("/cards", |_, _| {
 			let cards = data::cards();
-			Response::from_json(&cards)
+			let response = Response::from_json(&cards)
+				.map(|mut response| {
+					response.headers_mut().append("Access-Control-Allow-Origin", "*").expect("Set allow-origin");
+					response
+				});
+			response
 		})
 		.get("/font", |_, _| {
 			let font = data::font();
