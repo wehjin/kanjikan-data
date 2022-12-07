@@ -1172,6 +1172,218 @@
       ]
     },
     {
+      "chapter": 5,
+      "characters": [
+        {
+          "number": 50,
+          "character": "電",
+          "meaning": "electricity",
+          "usages": [
+            {
+              "furigana": "電｜でん　話｜わ　（する）",
+              "meaning": "to make a phone call"
+            }
+          ]
+        },
+        {
+          "number": 51,
+          "character": "話",
+          "meaning": "story, conversation, to tell, to speak, to talk",
+          "usages": [
+            {
+              "furigana": "話｜はなし",
+              "meaning": "story, conversation"
+            },
+            {
+              "furigana": "話｜はな　す",
+              "meaning": "to speak"
+            },
+            {
+              "furigana": "会｜かい　話｜わ　（する）",
+              "meaning": "to have a conversation"
+            }
+          ]
+        },
+        {
+          "number": 52,
+          "character": "上",
+          "meaning": "top, upper, above, over, to rise, to go up, to raise",
+          "usages": [
+            {
+              "furigana": "上｜うえ",
+              "meaning": "top"
+            },
+            {
+              "furigana": "〜が　上｜あ　がる",
+              "meaning": "to rise, to go up"
+            },
+            {
+              "furigana": "〜を　上｜あ　げる",
+              "meaning": "to raise"
+            },
+            {
+              "furigana": "村｜むら　上｜かみ",
+              "meaning": "Murakami (surname)"
+            },
+            {
+              "furigana": "上｜のぼ　る",
+              "meaning": "to climb, to go up"
+            },
+            {
+              "furigana": "屋｜おく　上｜じょう",
+              "meaning": "top of the building"
+            },
+            {
+              "furigana": "上｜じょう　手｜ず　（な）",
+              "meaning": "talented, skillful"
+            }
+          ]
+        },
+        {
+          "number": 53,
+          "character": "下",
+          "meaning": "under, bottom, beneath, below, to o down, to lower",
+          "usages": [
+            {
+              "furigana": "下｜した",
+              "meaning": "below, under"
+            },
+            {
+              "furigana": "〜が　下｜さ　がる",
+              "meaning": "to go down"
+            },
+            {
+              "furigana": "〜を　下｜さ　げる",
+              "meaning": "to lower"
+            },
+            {
+              "furigana": "下｜くだ　さい",
+              "meaning": "please (when asking something politely)"
+            },
+            {
+              "furigana": "下｜くだ　る",
+              "meaning": "to descend, to go down"
+            },
+            {
+              "furigana": "地｜ち　下｜か",
+              "meaning": "underground"
+            },
+            {
+              "furigana": "上｜じょう　下｜げ",
+              "meaning": "up and down"
+            }
+          ]
+        },
+        {
+          "number": 54,
+          "character": "花",
+          "meaning": "flower, bloom, blossom",
+          "usages": [
+            {
+              "furigana": "花｜はな",
+              "meaning": "flower"
+            },
+            {
+              "furigana": "花｜はな　火｜び",
+              "meaning": "fireworks"
+            },
+            {
+              "furigana": "花｜はな　見｜み",
+              "meaning": "flower viewing"
+            },
+            {
+              "furigana": "花｜か　びん",
+              "meaning": "flower vase"
+            }
+          ]
+        },
+        {
+          "number": 55,
+          "character": "左",
+          "meaning": "left",
+          "usages": [
+            {
+              "furigana": "左｜ひだり",
+              "meaning": "left"
+            },
+            {
+              "furigana": "右｜みぎ　左｜ひだり",
+              "meaning": "right and left"
+            },
+            {
+              "furigana": "左｜さ　右｜ゆう",
+              "meaning": "left and right"
+            }
+          ]
+        },
+        {
+          "number": 56,
+          "character": "中",
+          "meaning": "inside, middle, center, midway, during",
+          "usages": [
+            {
+              "furigana": "中｜なか",
+              "meaning": "inside"
+            },
+            {
+              "furigana": "真｜ま　ん　中｜なか",
+              "meaning": "middle"
+            },
+            {
+              "furigana": "電｜でん　話｜わ　中｜ちゅう",
+              "meaning": "on the phone"
+            },
+            {
+              "furigana": "会｜かい　議｜ぎ　中｜ちゅう",
+              "meaning": "in a meeting"
+            },
+            {
+              "furigana": "一｜いち　年｜ねん　中｜じゅう",
+              "meaning": "all year long, year-round"
+            }
+          ]
+        },
+        {
+          "number": 57,
+          "character": "右",
+          "meaning": "right",
+          "usages": [
+            {
+              "furigana": "右｜みぎ",
+              "meaning": "right"
+            },
+            {
+              "furigana": "右｜みぎ　左｜ひだり",
+              "meaning": "right and left"
+            },
+            {
+              "furigana": "左｜さ　右｜ゆう",
+              "meaning": "left and right"
+            },
+            {
+              "furigana": "右｜う　派｜は",
+              "meaning": "right-wing"
+            }
+          ]
+        },
+        {
+          "number": 58,
+          "character": "店",
+          "meaning": "shop, store",
+          "usages": [
+            {
+              "furigana": "店｜みせ",
+              "meaning": "store"
+            },
+            {
+              "furigana": "本｜ほん　店｜てん",
+              "meaning": "main office"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "chapter": 10,
       "characters": [
         {
