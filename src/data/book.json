@@ -656,6 +656,264 @@
       ]
     },
     {
+      "chapter": 3,
+      "characters": [
+        {
+          "number": 28,
+          "character": "今",
+          "meaning": "now, present, this time",
+          "usages": [
+            {
+              "furigana": "今｜いま",
+              "meaning": "now"
+            },
+            {
+              "furigana": "今｜こ　年｜とし",
+              "meaning": "this year"
+            },
+            {
+              "furigana": "今日｜きょう",
+              "meaning": "today"
+            },
+            {
+              "furigana": "今｜こん　月｜げつ",
+              "meaning": "this month"
+            },
+            {
+              "furigana": "今｜こん　度｜ど",
+              "meaning": "next time"
+            }
+          ]
+        },
+        {
+          "number": 29,
+          "character": "何",
+          "meaning": "what",
+          "usages": [
+            {
+              "furigana": "何｜なに　が/も/を",
+              "meaning": "what"
+            },
+            {
+              "furigana": "何｜なん/なに　で",
+              "meaning": "how"
+            },
+            {
+              "furigana": "何｜なん　ですか",
+              "meaning": "What is it?"
+            },
+            {
+              "furigana": "何｜なん　時｜じ",
+              "meaning": "what time"
+            },
+            {
+              "furigana": "何｜なん　月｜がつ",
+              "meaning": "what month"
+            },
+            {
+              "furigana": "何｜なん　曜｜よう　日｜び",
+              "meaning": "what day"
+            },
+            {
+              "furigana": "何｜なん　年｜ねん",
+              "meaning": "what year"
+            },
+            {
+              "furigana": "何｜なん　人｜にん",
+              "meaning": "how many people"
+            },
+            {
+              "furigana": "幾｜き　何｜か　学｜がく",
+              "meaning": "geometry"
+            }
+          ]
+        },
+        {
+          "number": 30,
+          "character": "半",
+          "meaning": "half, middle",
+          "usages": [
+            {
+              "furigana": "半｜なか　ば",
+              "meaning": "middle of, halfway"
+            },
+            {
+              "furigana": "１　時｜じ　半｜はん",
+              "meaning": "half past one, one thirty"
+            },
+            {
+              "furigana": "半｜はん　分｜ぶん",
+              "meaning": "half (of something)"
+            },
+            {
+              "furigana": "半｜はん　年｜とし",
+              "meaning": "half a year"
+            }
+          ]
+        },
+        {
+          "number": 31,
+          "character": "前",
+          "meaning": "front, before, ahead, previous, ago",
+          "usages": [
+            {
+              "furigana": "前｜まえ",
+              "meaning": "front, before"
+            },
+            {
+              "furigana": "〜の　前｜まえ　に",
+              "meaning": "before ~"
+            },
+            {
+              "furigana": "前｜ぜん　半｜はん",
+              "meaning": "first half"
+            }
+          ]
+        },
+        {
+          "number": 32,
+          "character": "後",
+          "meaning": "after, later, rear, back, behind",
+          "usages": [
+            {
+              "furigana": "後｜うし　ろ",
+              "meaning": "behind"
+            },
+            {
+              "furigana": "〜の　後｜あと　で",
+              "meaning": "after ~"
+            },
+            {
+              "furigana": "後｜のち　に",
+              "meaning": "later (on)"
+            },
+            {
+              "furigana": "３０　分｜ぷん　後｜ご",
+              "meaning": "30 minutes later"
+            },
+            {
+              "furigana": "後｜こう　半｜はん",
+              "meaning": "second half"
+            }
+          ]
+        },
+        {
+          "number": 33,
+          "character": "午",
+          "meaning": "noon",
+          "usages": [
+            {
+              "furigana": "午｜ご　前｜ぜん",
+              "meaning": "morning"
+            },
+            {
+              "furigana": "午｜ご　後｜ご",
+              "meaning": "afternoon"
+            }
+          ]
+        },
+        {
+          "number": 34,
+          "character": "行",
+          "meaning": "to go, to visit, to perform (an act)",
+          "usages": [
+            {
+              "furigana": "行｜い　く",
+              "meaning": "to go"
+            },
+            {
+              "furigana": "行｜おこな　う",
+              "meaning": "to perform (an act)"
+            },
+            {
+              "furigana": "銀｜ぎん　行｜こう",
+              "meaning": "bank"
+            },
+            {
+              "furigana": "１　行｜ぎょう",
+              "meaning": "one line"
+            }
+          ]
+        },
+        {
+          "number": 35,
+          "character": "来",
+          "meaning": "to come, next",
+          "usages": [
+            {
+              "furigana": "来｜き　ます",
+              "meaning": "coming"
+            },
+            {
+              "furigana": "来｜く　る",
+              "meaning": "to come"
+            },
+            {
+              "furigana": "来｜こ　ない",
+              "meaning": "not coming"
+            },
+            {
+              "furigana": "来｜らい　年｜ねん",
+              "meaning": "next year"
+            },
+            {
+              "furigana": "来｜らい　月｜げつ",
+              "meaning": "next month"
+            }
+          ]
+        },
+        {
+          "number": 36,
+          "character": "帰",
+          "meaning": "to return, to go (come) back",
+          "usages": [
+            {
+              "furigana": "帰｜かえ　る",
+              "meaning": "to return, to go home"
+            },
+            {
+              "furigana": "帰｜き　国｜こく　（する）",
+              "meaning": "to go back to one's country"
+            }
+          ]
+        },
+        {
+          "number": 37,
+          "character": "会",
+          "meaning": "to meet, to see, meeting, gathering",
+          "usages": [
+            {
+              "furigana": "会｜あ　う",
+              "meaning": "to meet, to see"
+            },
+            {
+              "furigana": "会｜かい　議｜ぎ",
+              "meaning": "meeting"
+            },
+            {
+              "furigana": "子｜こ　会｜がい　社｜しゃ",
+              "meaning": "subsidiary company"
+            }
+          ]
+        },
+        {
+          "number": 38,
+          "character": "社",
+          "meaning": "company, firm, shrine",
+          "usages": [
+            {
+              "furigana": "会｜かい　社｜しゃ",
+              "meaning": "company"
+            },
+            {
+              "furigana": "社｜しゃ　会｜かい",
+              "meaning": "society"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "chapter": 10,
       "characters": [
         {
