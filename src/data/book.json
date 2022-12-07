@@ -336,6 +336,326 @@
       ]
     },
     {
+      "chapter": 2,
+      "characters": [
+        {
+          "number": 15,
+          "character": "年",
+          "meaning": "year, age",
+          "usages": [
+            {
+              "furigana": "年｜とし",
+              "meaning": "year"
+            },
+            {
+              "furigana": "お　年｜とし　寄｜よ　り",
+              "meaning": "the elderly"
+            },
+            {
+              "furigana": "2020　年｜ねん",
+              "meaning": "the year 2020"
+            },
+            {
+              "furigana": "一｜いち　年｜ねん",
+              "meaning": "one year"
+            }
+          ]
+        },
+        {
+          "number": 16,
+          "character": "月",
+          "meaning": "month, moon, Monday",
+          "usages": [
+            {
+              "furigana": "月｜つき",
+              "meaning": "month, moon"
+            },
+            {
+              "furigana": "月｜げつ　曜｜よう　日｜び",
+              "meaning": "Monday"
+            },
+            {
+              "furigana": "四｜し　月｜がつ",
+              "meaning": "April"
+            },
+            {
+              "furigana": "七｜しち　月｜がつ",
+              "meaning": "July"
+            },
+            {
+              "furigana": "九｜く　月｜がつ",
+              "meaning": "September"
+            },
+            {
+              "furigana": "生｜せい　年｜ねん　月｜がっ　日｜ぴ",
+              "meaning": "birthdate"
+            }
+          ]
+        },
+        {
+          "number": 17,
+          "character": "日",
+          "meaning": "day, date, sun, Japan",
+          "usages": [
+            {
+              "furigana": "こどもの　日｜ひ",
+              "meaning": "Children's Day"
+            },
+            {
+              "furigana": "誕｜たん　生｜じょう　日｜び",
+              "meaning": "birthday"
+            },
+            {
+              "furigana": "三｜みっ　日｜か",
+              "meaning": "the third day"
+            },
+            {
+              "furigana": "五｜いつ　日｜か",
+              "meaning": "the fifth day"
+            },
+            {
+              "furigana": "九｜ここの　日｜か",
+              "meaning": "the ninth day"
+            },
+            {
+              "furigana": "生｜せい　年｜ねん　月｜がっ　日｜ぴ",
+              "meaning": "birth date[BD]"
+            },
+            {
+              "furigana": "日｜にち　曜｜よう　日｜び",
+              "meaning": "Sunday"
+            },
+            {
+              "furigana": "２５　日｜にち",
+              "meaning": "the twenty fifth day"
+            },
+            {
+              "furigana": "休｜きゅう　日｜じつ",
+              "meaning": "holiday, day off"
+            },
+            {
+              "furigana": "日本｜にほん/にっぽん",
+              "meaning": "Japan"
+            }
+          ]
+        },
+        {
+          "number": 18,
+          "character": "曜",
+          "meaning": "day of the week",
+          "usages": [
+            {
+              "furigana": "日｜にち　曜｜よう　日｜び",
+              "meaning": "Sunday"
+            },
+            {
+              "furigana": "曜｜よう　日｜び",
+              "meaning": "day of the week"
+            }
+          ]
+        },
+        {
+          "number": 19,
+          "character": "時",
+          "meaning": "time, hour, moment, case",
+          "usages": [
+            {
+              "furigana": "子｜こ　どもの　時｜とき",
+              "meaning": "childhood"
+            },
+            {
+              "furigana": "時｜とき　々｜どき",
+              "meaning": "sometimes"
+            },
+            {
+              "furigana": "四｜よ　時｜じ",
+              "meaning": "four o'clock"
+            },
+            {
+              "furigana": "七｜しち　時｜じ",
+              "meaning": "seven o'clock"
+            },
+            {
+              "furigana": "九｜く　時｜じ",
+              "meaning": "nine o'clock"
+            },
+            {
+              "furigana": "日｜にち　時｜じ",
+              "meaning": "date and time"
+            }
+          ]
+        },
+        {
+          "number": 20,
+          "character": "分",
+          "meaning": "minute, part, to understand, to divide, to share",
+          "usages": [
+            {
+              "furigana": "〜が　分｜わ　かる",
+              "meaning": "to understand"
+            },
+            {
+              "furigana": "〜を　分｜わ　ける",
+              "meaning": "to divide, to share"
+            },
+            {
+              "furigana": "〜が　分｜わ　かれる",
+              "meaning": "to divide, to be divided, to branch off"
+            },
+            {
+              "furigana": "十｜じゅう　五｜ご　分｜ふん",
+              "meaning": "fifteen minutes"
+            },
+            {
+              "furigana": "十｜じっ/じゅっ　分｜ぷん",
+              "meaning": "ten minutes, enough"
+            },
+            {
+              "furigana": "半｜はん　分｜ぶん",
+              "meaning": "half (of something)"
+            },
+            {
+              "furigana": "三｜みっ　日｜か　分｜ぷん",
+              "meaning": "three-days worth"
+            },
+            {
+              "furigana": "三｜さん　文｜ぶん　の　二｜に",
+              "meaning": "two thirds"
+            }
+          ]
+        },
+        {
+          "number": 21,
+          "character": "火",
+          "meaning": "fire, Tuesday",
+          "usages": [
+            {
+              "furigana": "火｜ひ",
+              "meaning": "fire"
+            },
+            {
+              "furigana": "花｜はな　火｜び",
+              "meaning": "fireworks"
+            },
+            {
+              "furigana": "火｜か　曜｜よう　日｜び",
+              "meaning": "Tuesday"
+            }
+          ]
+        },
+        {
+          "number": 22,
+          "character": "水",
+          "meaning": "water, Wednesday",
+          "usages": [
+            {
+              "furigana": "水｜みず",
+              "meaning": "water"
+            },
+            {
+              "furigana": "水｜すい　曜｜よう　日｜び",
+              "meaning": "Wednesday"
+            }
+          ]
+        },
+        {
+          "number": 23,
+          "character": "木",
+          "meaning": "tree, wood, Thursday",
+          "usages": [
+            {
+              "furigana": "木｜き",
+              "meaning": "tree, wood"
+            },
+            {
+              "furigana": "五｜いつ　木｜き",
+              "meaning": "Itsuki (last name)"
+            },
+            {
+              "furigana": "木｜もく　曜｜よう　日｜び",
+              "meaning": "Thursday"
+            }
+          ]
+        },
+        {
+          "number": 24,
+          "character": "金",
+          "meaning": "gold, money, metal, Friday",
+          "usages": [
+            {
+              "furigana": "お　金｜かね",
+              "meaning": "money"
+            },
+            {
+              "furigana": "金｜きん　メダル",
+              "meaning": "gold medal"
+            },
+            {
+              "furigana": "金｜きん　曜｜よう　日｜び",
+              "meaning": "Friday"
+            }
+          ]
+        },
+        {
+          "number": 25,
+          "character": "土",
+          "meaning": "ground, soil, earth, Saturday",
+          "usages": [
+            {
+              "furigana": "土｜つち",
+              "meaning": "ground, soil, earth"
+            },
+            {
+              "furigana": "土｜ど　曜｜よう　日｜び",
+              "meaning": "Saturday"
+            },
+            {
+              "furigana": "土｜と　地｜ち",
+              "meaning": "land, ground"
+            }
+          ]
+        },
+        {
+          "number": 26,
+          "character": "平",
+          "meaning": "flat, plain, level, ordinary",
+          "usages": [
+            {
+              "furigana": "平｜たい　ら（な）",
+              "meaning": "flat"
+            },
+            {
+              "furigana": "平｜へい　日｜じつ",
+              "meaning": "weekday"
+            },
+            {
+              "furigana": "平｜びょう　等｜どう　（な）",
+              "meaning": "equal"
+            }
+          ]
+        },
+        {
+          "number": 27,
+          "character": "休",
+          "meaning": "holiday, day off, vacation, to rest, to be absent",
+          "usages": [
+            {
+              "furigana": "休｜やす　む",
+              "meaning": "to rest, to be absent"
+            },
+            {
+              "furigana": "休｜やす　み",
+              "meaning": "holiday, rest, break"
+            },
+            {
+              "furigana": "休｜きゅう　日｜じつ",
+              "meaning": "holiday, day off"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "chapter": 10,
       "characters": [
         {
