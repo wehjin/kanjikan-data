@@ -914,6 +914,264 @@
       ]
     },
     {
+      "chapter": 4,
+      "characters": [
+        {
+          "number": 39,
+          "character": "高",
+          "meaning": "high, tall, expensive, to increase, to raise",
+          "usages": [
+            {
+              "furigana": "高｜たか　い",
+              "meaning": "high, expensive"
+            },
+            {
+              "furigana": "円｜えん　高｜だか",
+              "meaning": "strong yen"
+            },
+            {
+              "furigana": "〜が　高｜たか　まる",
+              "meaning": "to rise, to go up"
+            },
+            {
+              "furigana": "〜を　高｜たか　める",
+              "meaning": "to raise, to increase"
+            },
+            {
+              "furigana": "高｜こう　校｜こう",
+              "meaning": "high school"
+            }
+          ]
+        },
+        {
+          "number": 40,
+          "character": "色",
+          "meaning": "color, hue, shade",
+          "usages": [
+            {
+              "furigana": "色｜いろ",
+              "meaning": "color"
+            },
+            {
+              "furigana": "オレンジ　色｜いろ",
+              "meaning": "the color orange"
+            },
+            {
+              "furigana": "３　色｜しょく",
+              "meaning": "three colors"
+            },
+            {
+              "furigana": "色｜しき　彩｜さい",
+              "meaning": "color, hue"
+            }
+          ]
+        },
+        {
+          "number": 41,
+          "character": "赤",
+          "meaning": "red",
+          "usages": [
+            {
+              "furigana": "赤｜あか",
+              "meaning": "red (n)"
+            },
+            {
+              "furigana": "赤｜あか　い",
+              "meaning": "red (adj)"
+            },
+            {
+              "furigana": "赤｜あか　ちゃん",
+              "meaning": "baby"
+            },
+            {
+              "furigana": "赤｜あか　字｜じ",
+              "meaning": "red print, deficit"
+            },
+            {
+              "furigana": "赤｜せき　道｜どう",
+              "meaning": "the equator"
+            }
+          ]
+        },
+        {
+          "number": 42,
+          "character": "白",
+          "meaning": "white, innocence",
+          "usages": [
+            {
+              "furigana": "白",
+              "meaning": "white (n)"
+            },
+            {
+              "furigana": "白｜しろ　い",
+              "meaning": "white (adj)"
+            },
+            {
+              "furigana": "白｜はく　書｜しょ",
+              "meaning": "white paper"
+            }
+          ]
+        },
+        {
+          "number": 43,
+          "character": "青",
+          "meaning": "blue, green",
+          "usages": [
+            {
+              "furigana": "青｜あお",
+              "meaning": "blue (n)"
+            },
+            {
+              "furigana": "青｜あお　い",
+              "meaning": "blue (adj)"
+            },
+            {
+              "furigana": "青｜せい　年｜ねん",
+              "meaning": "young person, youth"
+            }
+          ]
+        },
+        {
+          "number": 44,
+          "character": "黒",
+          "meaning": "black, dark",
+          "usages": [
+            {
+              "furigana": "黒｜くろ",
+              "meaning": "black (n)"
+            },
+            {
+              "furigana": "黒｜くろ　い",
+              "meaning": "black (adj)"
+            },
+            {
+              "furigana": "黒｜くろ　字｜じ",
+              "meaning": "black print"
+            },
+            {
+              "furigana": "黒｜こく　板｜ばん",
+              "meaning": "blackboard"
+            }
+          ]
+        },
+        {
+          "number": 45,
+          "character": "買",
+          "meaning": "to buy, to purchase",
+          "usages": [
+            {
+              "furigana": "買｜か　う",
+              "meaning": "to buy"
+            },
+            {
+              "furigana": "買｜か　い　物｜もの",
+              "meaning": "shopping"
+            },
+            {
+              "furigana": "買｜ばい　収｜しゅう　（する）",
+              "meaning": "to buy (a company)"
+            }
+          ]
+        },
+        {
+          "number": 46,
+          "character": "本",
+          "meaning": "book, origin, this, real, main",
+          "usages": [
+            {
+              "furigana": "金｜かね　本｜もと",
+              "meaning": "Kanemoto (surname)"
+            },
+            {
+              "furigana": "日本｜にほん/にっぽん",
+              "meaning": "Japan"
+            },
+            {
+              "furigana": "本｜ほん",
+              "meaning": "book"
+            },
+            {
+              "furigana": "２　本｜ほん",
+              "meaning": "two (items, long)"
+            },
+            {
+              "furigana": "本｜ほん　社｜しゃ",
+              "meaning": "company headquarters"
+            }
+          ]
+        },
+        {
+          "number": 47,
+          "character": "小",
+          "meaning": "small, little, tiny",
+          "usages": [
+            {
+              "furigana": "小｜ちい　さい",
+              "meaning": "little"
+            },
+            {
+              "furigana": "小｜こ　型｜がた",
+              "meaning": "small (size)"
+            },
+            {
+              "furigana": "小｜お　川｜がわ",
+              "meaning": "small stream, brook"
+            },
+            {
+              "furigana": "小｜しょう　学｜がっ　校｜こう",
+              "meaning": "elementary school"
+            }
+          ]
+        },
+        {
+          "number": 48,
+          "character": "大",
+          "meaning": "big, large, great",
+          "usages": [
+            {
+              "furigana": "大｜おお　きい",
+              "meaning": "big"
+            },
+            {
+              "furigana": "大｜おお　型｜がた",
+              "meaning": "large (size)"
+            },
+            {
+              "furigana": "大｜おお　いに",
+              "meaning": "greatly, very much"
+            },
+            {
+              "furigana": "大｜だい　学｜がく",
+              "meaning": "university"
+            },
+            {
+              "furigana": "マラゾン　大｜だい　会｜かい",
+              "meaning": "marathon race"
+            }
+          ]
+        },
+        {
+          "number": 49,
+          "character": "安",
+          "meaning": "peaceful, inexpensive, cheap, easy",
+          "usages": [
+            {
+              "furigana": "安｜やす　い",
+              "meaning": "cheap"
+            },
+            {
+              "furigana": "円｜えん　安｜やす",
+              "meaning": "weak yen"
+            },
+            {
+              "furigana": "安｜あん　全｜ぜん　（な）",
+              "meaning": "safe"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "chapter": 10,
       "characters": [
         {
