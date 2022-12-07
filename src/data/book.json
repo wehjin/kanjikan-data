@@ -1587,6 +1587,253 @@
       ]
     },
     {
+      "chapter": 7,
+      "characters": [
+        {
+          "number": 69,
+          "character": "語",
+          "meaning": "word, term, language, to talk, to tell",
+          "usages": [
+            {
+              "furigana": "語｜かた　る",
+              "meaning": "to speak, to talk about"
+            },
+            {
+              "furigana": "日｜に　本｜ほん　語｜ご",
+              "meaning": "Japanese language"
+            },
+            {
+              "furigana": "英｜えい　語｜ご",
+              "meaning": "English language"
+            }
+          ]
+        },
+        {
+          "number": 70,
+          "character": "村",
+          "meaning": "village",
+          "usages": [
+            {
+              "furigana": "村｜むら",
+              "meaning": "village"
+            },
+            {
+              "furigana": "中｜なか　村｜むら",
+              "meaning": "Nakamura (surname)"
+            }
+          ]
+        },
+        {
+          "number": 71,
+          "character": "名",
+          "meaning": "name",
+          "usages": [
+            {
+              "furigana": "名｜な　前｜まえ",
+              "meaning": "name"
+            },
+            {
+              "furigana": "１　名｜めい",
+              "meaning": "one person"
+            },
+            {
+              "furigana": "本｜ほん　名｜みょう",
+              "meaning": "one's real name"
+            }
+          ]
+        },
+        {
+          "number": 72,
+          "character": "国",
+          "meaning": "country, nation",
+          "usages": [
+            {
+              "furigana": "国｜くに",
+              "meaning": "country, nation"
+            },
+            {
+              "furigana": "帰｜き　国｜こく　（する）",
+              "meaning": "to go back to one's country"
+            },
+            {
+              "furigana": "四｜し　国｜こく",
+              "meaning": "Shikoku (place-name)"
+            },
+            {
+              "furigana": "国｜こっ　会｜かい",
+              "meaning": "the Diet"
+            },
+            {
+              "furigana": "中｜ちゅう　国｜ごく",
+              "meaning": "China"
+            }
+          ]
+        },
+        {
+          "number": 73,
+          "character": "番",
+          "meaning": "number, order, turn, to watch, to guard",
+          "usages": [
+            {
+              "furigana": "一｜いち　番｜ばん",
+              "meaning": "number one"
+            },
+            {
+              "furigana": "テレビ　番｜ばん　組｜ぐみ",
+              "meaning": "television program"
+            },
+            {
+              "furigana": "私｜わたし　の　番｜ばん",
+              "meaning": "my turn"
+            }
+          ]
+        },
+        {
+          "number": 74,
+          "character": "号",
+          "meaning": "number, signal",
+          "usages": [
+            {
+              "furigana": "番｜ばん　号｜ごう",
+              "meaning": "number"
+            },
+            {
+              "furigana": "信｜しん　号｜ごう",
+              "meaning": "signal"
+            },
+            {
+              "furigana": "１　号｜ごう　車｜しゃ",
+              "meaning": "car number one"
+            }
+          ]
+        },
+        {
+          "number": 75,
+          "character": "人",
+          "meaning": "mankind, human beings, people, humans",
+          "usages": [
+            {
+              "furigana": "人｜ひと",
+              "meaning": "people"
+            },
+            {
+              "furigana": "一｜ひと　人｜り",
+              "meaning": "one person"
+            },
+            {
+              "furigana": "二｜ふた　人｜り",
+              "meaning": "two people"
+            },
+            {
+              "furigana": "大人｜おとな",
+              "meaning": "adult"
+            },
+            {
+              "furigana": "日｜に　本｜ほん　人｜じん",
+              "meaning": "Japanese person"
+            },
+            {
+              "furigana": "人｜じん　口｜こう",
+              "meaning": "population"
+            },
+            {
+              "furigana": "三｜さん　人｜にん",
+              "meaning": "three people"
+            },
+            {
+              "furigana": "四｜よ　人｜にん",
+              "meaning": "four people"
+            }
+          ]
+        },
+        {
+          "number": 76,
+          "character": "学",
+          "meaning": "learning, to learn, to study",
+          "usages": [
+            {
+              "furigana": "学｜まな　ぶ｜ぶ",
+              "meaning": "to learn"
+            },
+            {
+              "furigana": "大｜だい　学｜がく",
+              "meaning": "university"
+            },
+            {
+              "furigana": "入｜にゅう　学｜がく　（する）",
+              "meaning": "to enter school"
+            }
+          ]
+        },
+        {
+          "number": 77,
+          "character": "生",
+          "meaning": "life, living, experience, to live, to exist, to be born, raw",
+          "usages": [
+            {
+              "furigana": "生｜い　きる",
+              "meaning": "to live"
+            },
+            {
+              "furigana": "生｜う　まれる",
+              "meaning": "to be born"
+            },
+            {
+              "furigana": "生｜なま　ビール",
+              "meaning": "draft beer"
+            },
+            {
+              "furigana": "生｜い　かす",
+              "meaning": "to keep alive, to make the most of"
+            },
+            {
+              "furigana": "生｜う　む",
+              "meaning": "to give birth, to give rise to"
+            },
+            {
+              "furigana": "学｜がく　生｜せい",
+              "meaning": "student"
+            },
+            {
+              "furigana": "生｜せい　年｜ねん　月｜がっ　日｜ぴ",
+              "meaning": "date of birth"
+            },
+            {
+              "furigana": "誕｜たん　生｜じょう　日｜び",
+              "meaning": "birthday"
+            }
+          ]
+        },
+        {
+          "number": 78,
+          "character": "員",
+          "meaning": "member",
+          "usages": [
+            {
+              "furigana": "社｜しゃ　員｜いん",
+              "meaning": "employee"
+            },
+            {
+              "furigana": "会｜かい　員｜いん",
+              "meaning": "member"
+            },
+            {
+              "furigana": "店｜てん　員｜いん",
+              "meaning": "store employee"
+            },
+            {
+              "furigana": "駅｜えき　員｜いん",
+              "meaning": "station employee"
+            },
+            {
+              "furigana": "会｜かい　社｜しゃ　員｜いん",
+              "meaning": "company employee"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "chapter": 10,
       "characters": [
         {
