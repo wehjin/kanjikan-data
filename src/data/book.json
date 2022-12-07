@@ -1384,6 +1384,209 @@
       ]
     },
     {
+      "chapter": 6,
+      "characters": [
+        {
+          "number": 59,
+          "character": "駅",
+          "meaning": "station",
+          "usages": [
+            {
+              "furigana": "駅｜えき",
+              "meaning": "station"
+            }
+          ]
+        },
+        {
+          "number": 60,
+          "character": "南",
+          "meaning": "south",
+          "usages": [
+            {
+              "furigana": "南｜みなみ",
+              "meaning": "south"
+            },
+            {
+              "furigana": "東｜とう　南｜なん　アジア",
+              "meaning": "Southeast Asia"
+            }
+          ]
+        },
+        {
+          "number": 61,
+          "character": "口",
+          "meaning": "mouth, door, gate",
+          "usages": [
+            {
+              "furigana": "口｜くち",
+              "meaning": "mouth"
+            },
+            {
+              "furigana": "南｜みなみ　口｜ぐち",
+              "meaning": "south entrance"
+            },
+            {
+              "furigana": "人｜じん　口｜こう",
+              "meaning": "population"
+            }
+          ]
+        },
+        {
+          "number": 62,
+          "character": "北",
+          "meaning": "north",
+          "usages": [
+            {
+              "furigana": "北｜きた",
+              "meaning": "north"
+            },
+            {
+              "furigana": "北｜きた　口｜ぐち",
+              "meaning": "north entrance"
+            },
+            {
+              "furigana": "東｜とう　北｜ほく",
+              "meaning": "northeast"
+            },
+            {
+              "furigana": "南|なん　北｜ほく",
+              "meaning": "north and south"
+            },
+            {
+              "furigana": "北｜ほっ　海｜かい　道｜どう",
+              "meaning": "Hokkaido (place-name)"
+            }
+          ]
+        },
+        {
+          "number": 63,
+          "character": "西",
+          "meaning": "west",
+          "usages": [
+            {
+              "furigana": "西｜にし",
+              "meaning": "west"
+            },
+            {
+              "furigana": "西｜にし　口｜ぐち",
+              "meaning": "west entrance"
+            },
+            {
+              "furigana": "南｜なん　西｜せい",
+              "meaning": "southwest"
+            },
+            {
+              "furigana": "関｜かん　西｜さい",
+              "meaning": "Kansai (region)"
+            }
+          ]
+        },
+        {
+          "number": 64,
+          "character": "東",
+          "meaning": "east",
+          "usages": [
+            {
+              "furigana": "東｜ひがし",
+              "meaning": "east"
+            },
+            {
+              "furigana": "東｜ひがし　口｜ぐち",
+              "meaning": "east entrance"
+            },
+            {
+              "furigana": "中｜ちゅう　東｜とう",
+              "meaning": "Middle East"
+            }
+          ]
+        },
+        {
+          "number": 65,
+          "character": "京",
+          "meaning": "capital, metropolis",
+          "usages": [
+            {
+              "furigana": "東｜とう　京｜きょう",
+              "meaning": "Tokyo"
+            },
+            {
+              "furigana": "京｜きょう　都｜と",
+              "meaning": "Kyoto"
+            }
+          ]
+        },
+        {
+          "number": 66,
+          "character": "央",
+          "meaning": "middle, center",
+          "usages": [
+            {
+              "furigana": "中｜ちゅう　央｜おう",
+              "meaning": "central"
+            },
+            {
+              "furigana": "中｜ちゅう　央｜おう　口｜ぐち",
+              "meaning": "central entrance"
+            }
+          ]
+        },
+        {
+          "number": 67,
+          "character": "入",
+          "meaning": "to enter, to go into, to put in, to join",
+          "usages": [
+            {
+              "furigana": "入｜はい　る",
+              "meaning": "to enter, to be put in"
+            },
+            {
+              "furigana": "入｜い　れる",
+              "meaning": "to put in, to insert"
+            },
+            {
+              "furigana": "入｜いり　口｜ぐち",
+              "meaning": "entrance"
+            },
+            {
+              "furigana": "輸｜ゆ　入｜にゅう　（する）",
+              "meaning": "import"
+            },
+            {
+              "furigana": "入｜にゅう　社｜しゃ　（する）",
+              "meaning": "to join a company"
+            }
+          ]
+        },
+        {
+          "number": 68,
+          "character": "出",
+          "meaning": "to go out, to come out, to put out",
+          "usages": [
+            {
+              "furigana": "出｜で　る",
+              "meaning": "to come out, to go out"
+            },
+            {
+              "furigana": "出｜だ　す",
+              "meaning": "to put out"
+            },
+            {
+              "furigana": "出｜で　口｜ぐち",
+              "meaning": "exit"
+            },
+            {
+              "furigana": "出｜しゅっ　張｜ちょう　（する）",
+              "meaning": "to go on a business trip"
+            },
+            {
+              "furigana": "輸｜ゆ　出｜しゅっ　（する）",
+              "meaning": "to export"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "chapter": 10,
       "characters": [
         {
