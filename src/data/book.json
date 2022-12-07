@@ -17,6 +17,325 @@
   },
   "chapters": [
     {
+      "chapter": 1,
+      "characters": [
+        {
+          "number": 1,
+          "character": "一",
+          "meaning": "one",
+          "usages": [
+            {
+              "furigana": "一｜ひと　つ",
+              "meaning": "one (item)"
+            },
+            {
+              "furigana": "一｜ひと　人｜り",
+              "meaning": "one person"
+            },
+            {
+              "furigana": "十｜じゅう　一｜いち",
+              "meaning": "eleven"
+            },
+            {
+              "furigana": "統｜とう　一｜いつ",
+              "meaning": "unified, standardized"
+            }
+          ]
+        },
+        {
+          "number": 2,
+          "character": "二",
+          "meaning": "two",
+          "usages": [
+            {
+              "furigana": "二｜ふた　つ",
+              "meaning": "two (items)"
+            },
+            {
+              "furigana": "二｜ふた　人｜り",
+              "meaning": "two people"
+            },
+            {
+              "furigana": "十｜じゅう　二｜に",
+              "meaning": "twelve"
+            },
+            {
+              "furigana": "二｜に　十｜じゅう",
+              "meaning": "twenty"
+            }
+          ]
+        },
+        {
+          "number": 3,
+          "character": "三",
+          "meaning": "three",
+          "usages": [
+            {
+              "furigana": "三｜みっ　つ",
+              "meaning": "three (items)"
+            },
+            {
+              "furigana": "十｜じゅう　三｜さん",
+              "meaning": "thirteen"
+            },
+            {
+              "furigana": "三｜さん　十｜じゅう",
+              "meaning": "thirty"
+            }
+          ]
+        },
+        {
+          "number": 4,
+          "character": "四",
+          "meaning": "four",
+          "usages": [
+            {
+              "furigana": "四｜よっ　つ",
+              "meaning": "four (items)"
+            },
+            {
+              "furigana": "十｜じゅう　四｜よん",
+              "meaning": "fourteen (not し)"
+            },
+            {
+              "furigana": "四｜よん　十｜じゅう",
+              "meaning": "forty"
+            },
+            {
+              "furigana": "四｜よ　時｜じ",
+              "meaning": "four o'clock"
+            },
+            {
+              "furigana": "十｜じゅう　四｜し",
+              "meaning": "fourteen (not よん)"
+            },
+            {
+              "furigana": "４｜し　月｜がつ",
+              "meaning": "April"
+            }
+          ]
+        },
+        {
+          "number": 5,
+          "character": "五",
+          "meaning": "five",
+          "usages": [
+            {
+              "furigana": "五｜いつ　つ",
+              "meaning": "five (items)"
+            },
+            {
+              "furigana": "五｜いつ　木｜き",
+              "meaning": "Itsuki (surname)"
+            },
+            {
+              "furigana": "十｜じゅう　五｜ご",
+              "meaning": "fifteen"
+            },
+            {
+              "furigana": "五｜ご　十｜じゅう",
+              "meaning": "fifty"
+            }
+          ]
+        },
+        {
+          "number": 6,
+          "character": "六",
+          "meaning": "six",
+          "usages": [
+            {
+              "furigana": "六｜むっ　つ",
+              "meaning": "six (items)"
+            },
+            {
+              "furigana": "十｜じゅう　六｜ろく",
+              "meaning": "sixteen"
+            },
+            {
+              "furigana": "六｜ろく　十｜じゅう",
+              "meaning": "sixty"
+            }
+          ]
+        },
+        {
+          "number": 7,
+          "character": "七",
+          "meaning": "seven",
+          "usages": [
+            {
+              "furigana": "七｜なな　つ",
+              "meaning": "seven (items)"
+            },
+            {
+              "furigana": "十｜じゅう　七｜なな",
+              "meaning": "seventeen (not しち)"
+            },
+            {
+              "furigana": "七｜なな　十｜じゅう",
+              "meaning": "seventy"
+            },
+            {
+              "furigana": "十｜じゅう　七｜しち",
+              "meaning": "seventeen (not よん)"
+            },
+            {
+              "furigana": "七｜しち　月｜がつ",
+              "meaning": "July"
+            }
+          ]
+        },
+        {
+          "number": 8,
+          "character": "八",
+          "meaning": "eight",
+          "usages": [
+            {
+              "furigana": "八｜やっ　つ",
+              "meaning": "eight (items)"
+            },
+            {
+              "furigana": "十｜じゅう　八｜はち",
+              "meaning": "eighteen"
+            },
+            {
+              "furigana": "八｜はち　十｜じゅう",
+              "meaning": "eighty"
+            }
+          ]
+        },
+        {
+          "number": 9,
+          "character": "九",
+          "meaning": "nine",
+          "usages": [
+            {
+              "furigana": "九｜ここの　つ",
+              "meaning": "nine (items)"
+            },
+            {
+              "furigana": "十｜じゅう　九｜きゅう/く",
+              "meaning": "nineteen"
+            },
+            {
+              "furigana": "九｜きゅう　十｜じゅう",
+              "meaning": "ninety"
+            },
+            {
+              "furigana": "九｜く　月｜がつ",
+              "meaning": "September"
+            }
+          ]
+        },
+        {
+          "number": 10,
+          "character": "十",
+          "meaning": "ten",
+          "usages": [
+            {
+              "furigana": "十｜とお",
+              "meaning": "ten"
+            },
+            {
+              "furigana": "二｜に　十｜じゅう",
+              "meaning": "twenty"
+            },
+            {
+              "furigana": "十｜じゅっ/じっ　回｜かい",
+              "meaning": "ten times"
+            }
+          ]
+        },
+        {
+          "number": 11,
+          "character": "百",
+          "meaning": "a hundred",
+          "usages": [
+            {
+              "furigana": "百｜ひゃく",
+              "meaning": "one hundred"
+            },
+            {
+              "furigana": "三｜さん　百｜びゃく",
+              "meaning": "three hundred"
+            },
+            {
+              "furigana": "六｜ろっ　百｜ぴゃく",
+              "meaning": "six hundred"
+            },
+            {
+              "furigana": "八｜はっ　百｜ぴゃく",
+              "meaning": "eight hundred"
+            }
+          ]
+        },
+        {
+          "number": 12,
+          "character": "千",
+          "meaning": "a thousand",
+          "usages": [
+            {
+              "furigana": "千｜ち　葉｜ば　県｜けん",
+              "meaning": "Chiba Prefecture"
+            },
+            {
+              "furigana": "千｜せん",
+              "meaning": "one thousand"
+            },
+            {
+              "furigana": "三｜さん　千｜ぜん",
+              "meaning": "three thousand"
+            },
+            {
+              "furigana": "八｜はっ　千｜せん",
+              "meaning": "eight thousand"
+            }
+          ]
+        },
+        {
+          "number": 13,
+          "character": "万",
+          "meaning": "ten thousand",
+          "usages": [
+            {
+              "furigana": "一｜いち　万｜まん",
+              "meaning": "ten thousand"
+            },
+            {
+              "furigana": "十｜じゅう　万｜まん",
+              "meaning": "one hundred thousand"
+            },
+            {
+              "furigana": "百｜ひゃく　万｜まん",
+              "meaning": "one million"
+            },
+            {
+              "furigana": "万｜ばん　全｜ぜん",
+              "meaning": "perfect, complete"
+            }
+          ]
+        },
+        {
+          "number": 14,
+          "character": "円",
+          "meaning": "circle, round, yen",
+          "usages": [
+            {
+              "furigana": "円｜えん",
+              "meaning": "yen (currency), circle, round"
+            },
+            {
+              "furigana": "五｜ご　十｜じゅう　円｜えん",
+              "meaning": "fifty yen"
+            },
+            {
+              "furigana": "一｜いち　万円",
+              "meaning": "ten thousand yen"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "chapter": 10,
       "characters": [
         {
