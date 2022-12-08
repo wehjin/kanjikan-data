@@ -1834,6 +1834,235 @@
       ]
     },
     {
+      "chapter": 8,
+      "characters": [
+        {
+          "number": 79,
+          "character": "私",
+          "meaning": "I, myself, private",
+          "usages": [
+            {
+              "furigana": "私｜わたし",
+              "meaning": "I"
+            },
+            {
+              "furigana": "私｜し　立｜りつ",
+              "meaning": "private (institution)"
+            }
+          ]
+        },
+        {
+          "number": 80,
+          "character": "家",
+          "meaning": "house, home, family",
+          "usages": [
+            {
+              "furigana": "家｜いえ",
+              "meaning": "house, family"
+            },
+            {
+              "furigana": "家｜や　賃｜ちん",
+              "meaning": "rent"
+            },
+            {
+              "furigana": "家｜か　族｜ぞく",
+              "meaning": "family"
+            },
+            {
+              "furigana": "スミス　家｜け",
+              "meaning": "the Smith family"
+            }
+          ]
+        },
+        {
+          "number": 81,
+          "character": "族",
+          "meaning": "tribe, race",
+          "usages": [
+            {
+              "furigana": "家｜か　族｜ぞく",
+              "meaning": "family"
+            }
+          ]
+        },
+        {
+          "number": 82,
+          "character": "母",
+          "meaning": "mother",
+          "usages": [
+            {
+              "furigana": "母｜はは",
+              "meaning": "mother"
+            },
+            {
+              "furigana": "お　母｜かあ　さん",
+              "meaning": "mother, mom"
+            },
+            {
+              "furigana": "父｜ふ　母｜ぼ",
+              "meaning": "father and mother"
+            },
+            {
+              "furigana": "母｜ぼ　国｜こく",
+              "meaning": "mother country"
+            }
+          ]
+        },
+        {
+          "number": 83,
+          "character": "父",
+          "meaning": "father",
+          "usages": [
+            {
+              "furigana": "父｜ちち",
+              "meaning": "father"
+            },
+            {
+              "furigana": "お　父｜とう　さん",
+              "meaning": "father, dad"
+            },
+            {
+              "furigana": "父｜ふ　母｜ぼ",
+              "meaning": "father and mother"
+            }
+          ]
+        },
+        {
+          "number": 84,
+          "character": "親",
+          "meaning": "parent, intimate, close",
+          "usages": [
+            {
+              "furigana": "親｜おや",
+              "meaning": "parent"
+            },
+            {
+              "furigana": "母｜はは　親｜おや",
+              "meaning": "mother (my)"
+            },
+            {
+              "furigana": "父｜ちち　親｜おや",
+              "meaning": "father (my)"
+            },
+            {
+              "furigana": "親｜した　しい",
+              "meaning": "close (relationship)"
+            },
+            {
+              "furigana": "親｜しん　切｜せつ　（な）",
+              "meaning": "kind"
+            }
+          ]
+        },
+        {
+          "number": 85,
+          "character": "両",
+          "meaning": "both",
+          "usages": [
+            {
+              "furigana": "両｜りょう　親｜しん",
+              "meaning": "parents"
+            },
+            {
+              "furigana": "両｜りょう　方｜ほう",
+              "meaning": "both"
+            }
+          ]
+        },
+        {
+          "number": 86,
+          "character": "子",
+          "meaning": "child",
+          "usages": [
+            {
+              "furigana": "子｜こ　供｜ども",
+              "meaning": "child"
+            },
+            {
+              "furigana": "子｜子　会｜がい　社｜しゃ",
+              "meaning": "subsidiary company"
+            },
+            {
+              "furigana": "電｜でん　子｜し　レンジ",
+              "meaning": "microwave oven"
+            },
+            {
+              "furigana": "様｜よう　子｜す",
+              "meaning": "look of things, state of affairs"
+            }
+          ]
+        },
+        {
+          "number": 87,
+          "character": "兄",
+          "meaning": "elder brother, big brother, older brother",
+          "usages": [
+            {
+              "furigana": "兄｜あに",
+              "meaning": "older brother"
+            },
+            {
+              "furigana": "お　兄｜にい　さん",
+              "meaning": "big brother"
+            },
+            {
+              "furigana": "兄｜きょう　弟｜だい",
+              "meaning": "siblings"
+            }
+          ]
+        },
+        {
+          "number": 88,
+          "character": "弟",
+          "meaning": "younger brother, little brother",
+          "usages": [
+            {
+              "furigana": "弟｜おとうと",
+              "meaning": "younger brother"
+            },
+            {
+              "furigana": "兄｜きょう　弟｜だい",
+              "meaning": "siblings"
+            }
+          ]
+        },
+        {
+          "number": 89,
+          "character": "姉",
+          "meaning": "elder sister, big sister, older sister",
+          "usages": [
+            {
+              "furigana": "姉｜あね",
+              "meaning": "older sister"
+            },
+            {
+              "furigana": "お　姉｜ねえ　さん",
+              "meaning": "big sister"
+            },
+            {
+              "furigana": "姉｜し　妹｜まい",
+              "meaning": "sisters"
+            }
+          ]
+        },
+        {
+          "number": 90,
+          "character": "妹",
+          "meaning": "younger sister, little sister",
+          "usages": [
+            {
+              "furigana": "妹｜いもうと",
+              "meaning": "younger sister"
+            },
+            {
+              "furigana": "姉｜し　妹｜まい",
+              "meaning": "sisters"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "chapter": 10,
       "characters": [
         {
