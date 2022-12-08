@@ -2063,6 +2063,252 @@
       ]
     },
     {
+      "chapter": 9,
+      "characters": [
+        {
+          "number": 91,
+          "character": "毎",
+          "meaning": "every, each",
+          "usages": [
+            {
+              "furigana": "毎｜まい　日｜にち",
+              "meaning": "every day"
+            },
+            {
+              "furigana": "毎｜まい　月｜つき",
+              "meaning": "every month"
+            },
+            {
+              "furigana": "毎｜まい　年｜とし/ねん",
+              "meaning": "every year"
+            },
+            {
+              "furigana": "毎｜まい　週｜しゅう",
+              "meaning": "every week"
+            }
+          ]
+        },
+        {
+          "number": 92,
+          "character": "朝",
+          "meaning": "morning",
+          "usages": [
+            {
+              "furigana": "朝｜あさ",
+              "meaning": "morning"
+            },
+            {
+              "furigana": "毎｜まい　朝｜あさ",
+              "meaning": "every morning"
+            },
+            {
+              "furigana": "朝｜あさ　ごはん",
+              "meaning": "morning meal"
+            },
+            {
+              "furigana": "今｜け　朝｜さ",
+              "meaning": "this morning"
+            },
+            {
+              "furigana": "朝｜ちょう　食｜しょく",
+              "meaning": "breakfast"
+            }
+          ]
+        },
+        {
+          "number": 93,
+          "character": "昼",
+          "meaning": "daytime, midday, noon",
+          "usages": [
+            {
+              "furigana": "昼｜ひる",
+              "meaning": "noon"
+            },
+            {
+              "furigana": "昼｜ひる　ごはん",
+              "meaning": "midday meal"
+            },
+            {
+              "furigana": "昼｜ひる　休｜やす　み",
+              "meaning": "lunchtime break"
+            },
+            {
+              "furigana": "昼｜ちゅう　食｜しょく",
+              "meaning": "lunch"
+            }
+          ]
+        },
+        {
+          "number": 94,
+          "character": "晩",
+          "meaning": "evening, nigh",
+          "usages": [
+            {
+              "furigana": "晩｜ばん",
+              "meaning": "evening"
+            },
+            {
+              "furigana": "毎｜まい　晩｜ばん",
+              "meaning": "every evening"
+            },
+            {
+              "furigana": "晩｜ばん　ごはん",
+              "meaning": "evening meal"
+            }
+          ]
+        },
+        {
+          "number": 95,
+          "character": "夜",
+          "meaning": "night, evening",
+          "usages": [
+            {
+              "furigana": "夜｜よる",
+              "meaning": "night"
+            },
+            {
+              "furigana": "夜｜よ　中｜なか",
+              "meaning": "middle of the night"
+            },
+            {
+              "furigana": "今｜こん　夜｜や",
+              "meaning": "tonight"
+            },
+            {
+              "furigana": "夜｜や　間｜かん",
+              "meaning": "during the night"
+            },
+            {
+              "furigana": "夜｜や　行｜こう　バス",
+              "meaning": "overnight bus"
+            }
+          ]
+        },
+        {
+          "number": 96,
+          "character": "食",
+          "meaning": "meal, to eat",
+          "usages": [
+            {
+              "furigana": "食｜た　べる",
+              "meaning": "to eat"
+            },
+            {
+              "furigana": "朝｜ちょう　食｜しょく",
+              "meaning": "breakfast"
+            },
+            {
+              "furigana": "昼｜ちゅう　食｜しょく",
+              "meaning": "lunch"
+            },
+            {
+              "furigana": "夕｜ゆう　食｜しょく",
+              "meaning": "supper"
+            },
+            {
+              "furigana": "食｜しょく　事｜じ　（する）",
+              "meaning": "to have a meal"
+            }
+          ]
+        },
+        {
+          "number": 97,
+          "character": "飲",
+          "meaning": "to drink",
+          "usages": [
+            {
+              "furigana": "飲｜の　む",
+              "meaning": "to drink"
+            },
+            {
+              "furigana": "飲｜いん　食｜しょく　店｜てん",
+              "meaning": "restaurant"
+            }
+          ]
+        },
+        {
+          "number": 98,
+          "character": "見",
+          "meaning": "to see, to look, to watch",
+          "usages": [
+            {
+              "furigana": "見｜み　る",
+              "meaning": "to see"
+            },
+            {
+              "furigana": "〜を　見｜み　せる",
+              "meaning": "to show, to display"
+            },
+            {
+              "furigana": "〜が　見｜み　える",
+              "meaning": "to be visible"
+            },
+            {
+              "furigana": "見｜けん　学｜がく　（する）",
+              "meaning": "to take a tour of (a facility), to observe"
+            }
+          ]
+        },
+        {
+          "number": 99,
+          "character": "聞",
+          "meaning": "to hear, to listen, to ask",
+          "usages": [
+            {
+              "furigana": "聞｜き　く",
+              "meaning": "to ask, to hear"
+            },
+            {
+              "furigana": "〜が　聞｜き　こえる",
+              "meaning": "to be heard"
+            },
+            {
+              "furigana": "新｜しん　聞｜ぶん",
+              "meaning": "newspaper"
+            }
+          ]
+        },
+        {
+          "number": 100,
+          "character": "読",
+          "meaning": "to read",
+          "usages": [
+            {
+              "furigana": "読｜よ　む",
+              "meaning": "to read"
+            },
+            {
+              "furigana": "読｜どく　書｜しょ",
+              "meaning": "reading (books)"
+            }
+          ]
+        },
+        {
+          "number": 101,
+          "character": "書",
+          "meaning": "book, letter, to write, to describe",
+          "usages": [
+            {
+              "furigana": "書｜か　く",
+              "meaning": "to write"
+            },
+            {
+              "furigana": "辞｜じ　書｜しょ",
+              "meaning": "dictionary"
+            },
+            {
+              "furigana": "書｜しょ　道｜どう",
+              "meaning": "calligraphy"
+            },
+            {
+              "furigana": "書｜しょ　店｜てん",
+              "meaning": "bookstore"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "chapter": 10,
       "characters": [
         {
